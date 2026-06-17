@@ -16,7 +16,7 @@ Instead of passive tutorial-watching, I am strictly following a **Micro-Cycle Me
 
 **Phase 1: Core Foundation (In Progress)**
 - [x] **Modules 1-3:** Python Basics (Variables, Data Types, Operators)
-- [ ] **Module 4:** Strings & String Manipulation
+- [x] **Module 4:** Strings & String Manipulation
 - [ ] **Module 5:** Lists
 - [ ] **Module 6:** Tuples, Sets & Dictionaries
 - [ ] **Module 7:** Control Statements
@@ -33,7 +33,7 @@ Instead of passive tutorial-watching, I am strictly following a **Micro-Cycle Me
 ## Mini-Projects Built
 As I complete modules, I will be pushing end-of-module projects here:
 1. **Basic Triangle Area Calculator** - [Link to file](./area_of_triangle.py) ✅
-2. **Text Analyzer** *(Coming after Module 4)* ⏳
+2. **Text Analyzer** - [Link to file](./text_analyzer.py) ✅
 3. **Grade Tracker** *(Coming after Module 5)* ⏳
 4. **GUI Electronics Toolkit** *(Summer Capstone Project)* ⏳
 
