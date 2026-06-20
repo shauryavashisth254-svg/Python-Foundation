@@ -35,7 +35,8 @@ As I complete modules, I will be pushing end-of-module projects here:
 1. **Basic Triangle Area Calculator** - [Link to file](./area_of_triangle.py) ✅
 2. **Text Analyzer** - [Link to file](./text_analyzer.py) ✅
 3. **Grade Tracker** - [Link to file](./grade_tracker.py) ✅
-4. **GUI Electronics Toolkit** *(Summer Capstone Project)* ⏳
+4. **Sensor Scrubber (Sets)** - [Link to file](./sensor_scrubber.py) ✅
+5. **GUI Electronics Toolkit** *(Summer Capstone Project)* ⏳
 
 ---
 *Committing daily to build the habit. Feel free to explore my code!*
