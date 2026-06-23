@@ -37,7 +37,8 @@ As I complete modules, I will be pushing end-of-module projects here:
 3. **Grade Tracker** - [Link to file](./grade_tracker.py) ✅
 4. **Sensor Scrubber (Sets)** - [Link to file](./sensor_scrubber.py) ✅
 5. **Control Flow Sorter (3-Variable)** - [Link to file](./week2_practice.py) ✅
-6. **GUI Electronics Toolkit** *(Summer Capstone Project)* ⏳
+6. **Hardware Security Audit (Sets & Frozensets)** - [Link to file](./security_audit.py) ✅
+7. **GUI Electronics Toolkit** *(Summer Capstone Project)* ⏳
 
 ---
 *Committing daily to build the habit. Feel free to explore my code!*
